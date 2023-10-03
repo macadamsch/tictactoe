@@ -1,0 +1,50 @@
+html, 
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #cdd7d6;
+  }
+  
+canvas {
+    display: block;
+  }
+
+#canvas-container {
+    width: fit-content;
+    background-color: #2e282a;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+#game-container {
+    background: cdd7d6;
+    min-width: fit-content;
+}
+
+#button-container {
+    margin-top: 20px;
+    background-color: #b87d4b;
+    width: fit-content;
+    padding: 5px;
+}
+
+#reset-button {
+    font-size: 32 px;
+    padding: 10px 20px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64px;
+    width: fit-content;
+    text-align: center;
+    color: #b87d4b;
+}
