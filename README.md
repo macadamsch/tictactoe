@@ -6,7 +6,7 @@ TicTacToe is a simple game designed for playing against an AI opponent that foll
 
 ## Live Site
 
-[Placeholder for Live Site](#)
+You can play the game live on [TicTacToe Live](https://macadamsch.github.io/tictactoe/).
 
 ## Technologies & Tools
 
@@ -21,7 +21,7 @@ TicTacToe is built using the following technologies and tools:
 
 To play TicTacToe locally on your machine, follow these steps:
 1. Clone the repository:
-`git clone https://github.com/your-username/tic-tac-toe.git`
+`git clone https://github.com/macdamsch/tic-tac-toe.git`
 2. Navigate to the project directory:
 `cd tic-tac-toe`
 3. Open the `index.html` file with a Live Server in your web browser.
